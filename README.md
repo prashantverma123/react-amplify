@@ -5,6 +5,9 @@
 3. To run the local server `npm start`
 4. Go to the browser and create the new user.
 
+You can play around with the deployed version of the app at
+https://master.dgp4mfjru7xqo.amplifyapp.com/
+
 
 
 ### `npm start`
